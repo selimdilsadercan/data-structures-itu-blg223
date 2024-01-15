@@ -42,7 +42,11 @@
     "streambuf": "cpp",
     "typeinfo": "cpp",
     "cstring": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "ctime": "cpp",
+    "iterator": "cpp",
+    "map": "cpp",
+    "random": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
